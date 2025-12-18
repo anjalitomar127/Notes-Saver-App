@@ -3,7 +3,6 @@
 NotesSaver is a modern React-based notes application that allows users to create, view, edit, delete, copy, and share notes in a clean and interactive interface. The project is built using React with Redux Toolkit for state management and Tailwind CSS for styling, focusing on responsive design, state handling, and real-world frontend features.
 
 
-
 ✨ Features
 
 📝 Create Notes – Add new notes with a title and content
